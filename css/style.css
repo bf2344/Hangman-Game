@@ -1,0 +1,48 @@
+#container {
+    width: 60%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: gray;
+    margin: 10% auto;
+    text-align: center;
+    border: 3px solid;
+    border-color: black;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+    color: gold;
+    text-align: center;
+    font-size: 60px;
+}
+
+h3{
+font-size: 30px;
+color: whitesmoke;
+
+}
+
+#letters a{
+    color: whitesmoke;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+#letters a:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+
+
+#wordToGuess{
+    font-size: 70px
+}
+
+p, .countersguesses{
+    font-size: 30px;
+    color: gold;
+}
